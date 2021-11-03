@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<package schemaVersion="1.7.3" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="PACK.xsd">
+  <vendor>jkrech</vendor>
+  <name>my-cmsis-pack</name>
+  <description>Using a GitHub repository as a pack.</description>
+  <url>https://github.com/jkrech/my-cmsis-pack/releases/latest/download/jkrech.my-cmsis-pack.pdsc/</url>
+  <repository type="git">https://github.com/jkrech/my-cmsis-pack"</repository>
+
+  <releases>
+    <release version="1.0.0" date="2021-11-03" tag="v0.0.1" url="https://github.com/jkrech/my-cmsis-pack/releases/download/v0.0.1/jkrech.my-cmsis-pack.0.0.1.pack">
+      Initial version.
+    </release>
+  </releases>
+</package>
